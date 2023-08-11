@@ -14,6 +14,10 @@ The Speaker Identification and Verification Web Application is built using deep 
 <strong>User-Friendly Interface:</strong> An intuitive web interface for easy interaction and navigation.
 
 
+
+
 <strong>Custom Dataset:</strong> Train the model on your own dataset of 100 speakers for domain-specific applications.
+
 Here is the custom dataset which I've collected on my own:
+![Alt text](https://github.com/SakshiMittal04/Speech-Authentica/blob/main/dataset.png)
 
